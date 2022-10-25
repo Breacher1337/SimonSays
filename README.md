@@ -1,4 +1,4 @@
 ﻿# SimonSays
 
 
-![]("sample.gif")
+![SiteGif](sample.gif)
